@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="30dp"
+    android:layout_marginRight="30dp"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btStartCrash"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Start Crash"/>
+
+    <Button
+        android:id="@+id/btCustom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Registro personalizado"/>
+
+    <Button
+        android:id="@+id/btCustomKey"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Claves personalizadas"/>
+
+    <Button
+        android:id="@+id/btIdUser"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Configurar ID Usuario"/>
+
+    <Button
+        android:id="@+id/btException"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Excepciones no fatales"/>
+
+</LinearLayout>
