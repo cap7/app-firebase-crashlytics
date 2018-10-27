@@ -1,5 +1,4 @@
-# app-firebase-crashlytics
-Firebase Crashlytics - Dev Fest Lima 2018
+## Firebase Crashlytics - Dev Fest Lima 2018
 
 Diapositivas del Workshop
 
